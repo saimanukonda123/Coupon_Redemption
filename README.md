@@ -1,6 +1,6 @@
 # Coupon_Redemption
 
-# Problem Statement
+## Problem Statement
 
 The goal is to improve the effectiveness of company's coupon campaigns by
 predicting the likelihood of coupon redemption by the customers. The objective is to develop a
@@ -9,7 +9,7 @@ optimize the coupon distribution process to increase the conversion rate of the 
 can help companies to target their promotions more effectively, increase customer engagement
 and ultimately drive sales.
 
-# Description 
+## Description 
 
 The dataset includes information on coupons offered to customers in 18 campaigns,
 campaign details, coupon-item mapping, customer demographics, customer transaction data and
@@ -17,6 +17,6 @@ item information. The goal is to predict the probability for the next 10 campaig
 for each coupon and customer combination, weather the customer will redeem the coupon or
 not?
 
-# Technologies Used
+## Technologies Used
 Python, Exploratory data analysis, Feature engineering, SMOTE,
 Logistic Regression, Decision Tree Classifier, Random Forest Classifier, GridsearchCV
